@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/lachlanchen/HowYouGotRich/blob/main/multilingual/schema.json",
-  "title": "How You Got Rich aligned reading",
+  "$id": "https://github.com/lachlanchen/HowDidYouGetRich/blob/main/multilingual/schema.json",
+  "title": "How Did You Get Rich? aligned reading",
   "type": "object",
   "required": [
     "schema_version",

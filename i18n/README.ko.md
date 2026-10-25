@@ -2,18 +2,18 @@
 
 [![LazyingArt 배너](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# How You Got Rich
+# How Did You Get Rich?
 
 ### 풍요에서 성취와 만족, 그리고 충분함을 아는 삶으로
 
-[![온라인 읽기](https://img.shields.io/badge/읽기-온라인-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowYouGotRich/)
-[![전체 PDF](https://img.shields.io/badge/PDF-전체_판형-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-you-got-rich.pdf)
-[![포켓 PDF](https://img.shields.io/badge/PDF-포켓_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-you-got-rich-pocket-1.2x.pdf)
+[![온라인 읽기](https://img.shields.io/badge/읽기-온라인-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowDidYouGetRich/)
+[![전체 PDF](https://img.shields.io/badge/PDF-전체_판형-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-did-you-get-rich.pdf)
+[![포켓 PDF](https://img.shields.io/badge/PDF-포켓_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-did-you-get-rich-pocket-1.2x.pdf)
 [![GitHub Sponsors](https://img.shields.io/badge/후원-lachlanchen-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/lachlanchen)
 
-<p align="center"><a href="../editions/how-you-got-rich.pdf"><img src="../assets/cover-page-1.png" alt="How You Got Rich 표지" width="520"></a></p>
+<p align="center"><a href="../editions/how-did-you-get-rich.pdf"><img src="../assets/cover-page-1.png" alt="How Did You Get Rich? 표지" width="520"></a></p>
 
-*How You Got Rich*는 사람들이 부를 만들고 지키고 사용하는 방식, 그리고
+*How Did You Get Rich?*는 사람들이 부를 만들고 지키고 사용하는 방식, 그리고
 부가 끝없는 지위 경쟁이 아니라 자유가 되는 방식을 솔직하게 탐구합니다.
 School of Hard Knocks 인터뷰가 인간적이고 증거에 기반한 중심축을 이룹니다.
 성공담은 실패, 운, 출발 조건, 인센티브, 생존자 편향, 다른 사람이 떠안은
@@ -32,15 +32,15 @@ School of Hard Knocks 인터뷰가 인간적이고 증거에 기반한 중심축
 
 | 형식 | 용도 | 열기 |
 | --- | --- | --- |
-| 책 웹사이트 | 전제, 구조, 판본, 업데이트 | [방문](https://lachlanchen.github.io/HowYouGotRich/) |
-| 네이티브 웹북 | 검색 가능한 전문, 수식, 그림, 장별 탐색 | [읽기](https://lachlanchen.github.io/HowYouGotRich/chapters/note-on-the-conversations.html) |
-| 책 지도 | 전문을 검색하거나 5부 논지를 탐색 | [살펴보기](https://lachlanchen.github.io/HowYouGotRich/book.html) |
-| PDF 판본 | 화면, 인쇄, 다운로드를 위한 선택 형식 | [열기](https://lachlanchen.github.io/HowYouGotRich/reader.html) |
-| 전체 PDF · 163쪽 | 인쇄, 데스크톱, 큰 태블릿 | [다운로드](../editions/how-you-got-rich.pdf) |
-| 포켓 1.2x PDF · 349쪽 | 전자책 단말기, 작은 화면, 6x9 인쇄 | [다운로드](../editions/how-you-got-rich-pocket-1.2x.pdf) |
+| 책 웹사이트 | 전제, 구조, 판본, 업데이트 | [방문](https://lachlanchen.github.io/HowDidYouGetRich/) |
+| 네이티브 웹북 | 검색 가능한 전문, 수식, 그림, 장별 탐색 | [읽기](https://lachlanchen.github.io/HowDidYouGetRich/chapters/note-on-the-conversations.html) |
+| 책 지도 | 전문을 검색하거나 5부 논지를 탐색 | [살펴보기](https://lachlanchen.github.io/HowDidYouGetRich/book.html) |
+| PDF 판본 | 화면, 인쇄, 다운로드를 위한 선택 형식 | [열기](https://lachlanchen.github.io/HowDidYouGetRich/reader.html) |
+| 전체 PDF · 163쪽 | 인쇄, 데스크톱, 큰 태블릿 | [다운로드](../editions/how-did-you-get-rich.pdf) |
+| 포켓 1.2x PDF · 349쪽 | 전자책 단말기, 작은 화면, 6x9 인쇄 | [다운로드](../editions/how-did-you-get-rich-pocket-1.2x.pdf) |
 
-V2는 [전체 판형](../editions/v2/how-you-got-rich-v2.pdf)과
-[포켓 1.2x](../editions/v2/how-you-got-rich-v2-pocket-1.2x.pdf)로 영구 보존됩니다.
+V2는 [전체 판형](../editions/v2/how-did-you-get-rich-v2.pdf)과
+[포켓 1.2x](../editions/v2/how-did-you-get-rich-v2-pocket-1.2x.pdf)로 영구 보존됩니다.
 버전 표기가 없는 링크는 출처, 편집, 조판 검토를 통과한 뒤에만 갱신됩니다.
 
 ## 책의 논리
@@ -93,11 +93,11 @@ make serve
 GitHub는 [`CITATION.cff`](../CITATION.cff)를 사용해 인용 정보를 제공합니다.
 
 ```bibtex
-@book{lazyingart2026howyougotrich,
+@book{lazyingart2026howdidyougetrich,
   author    = {{LazyingArt LLC}},
-  title     = {How You Got Rich: From Abundance to Fulfillment and Contentment},
+  title     = {How Did You Get Rich? From Abundance to Fulfillment and Contentment},
   year      = {2026},
   publisher = {LazyingArt and LazyLearn},
-  url       = {https://github.com/lachlanchen/HowYouGotRich}
+  url       = {https://github.com/lachlanchen/HowDidYouGetRich}
 }
 ```

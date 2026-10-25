@@ -2,18 +2,18 @@
 
 [![Bannière LazyingArt](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# How You Got Rich
+# How Did You Get Rich?
 
 ### De l'abondance à l'accomplissement et au contentement
 
-[![Lire en ligne](https://img.shields.io/badge/Lire-En_ligne-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowYouGotRich/)
-[![PDF grand format](https://img.shields.io/badge/PDF-Grand_format-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-you-got-rich.pdf)
-[![PDF de poche](https://img.shields.io/badge/PDF-Poche_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-you-got-rich-pocket-1.2x.pdf)
+[![Lire en ligne](https://img.shields.io/badge/Lire-En_ligne-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowDidYouGetRich/)
+[![PDF grand format](https://img.shields.io/badge/PDF-Grand_format-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-did-you-get-rich.pdf)
+[![PDF de poche](https://img.shields.io/badge/PDF-Poche_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-did-you-get-rich-pocket-1.2x.pdf)
 [![GitHub Sponsors](https://img.shields.io/badge/Soutenir-lachlanchen-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/lachlanchen)
 
-<p align="center"><a href="../editions/how-you-got-rich.pdf"><img src="../assets/cover-page-1.png" alt="Couverture de How You Got Rich" width="520"></a></p>
+<p align="center"><a href="../editions/how-did-you-get-rich.pdf"><img src="../assets/cover-page-1.png" alt="Couverture de How Did You Get Rich?" width="520"></a></p>
 
-*How You Got Rich* examine sans détour comment la richesse se crée, se conserve
+*How Did You Get Rich?* examine sans détour comment la richesse se crée, se conserve
 et s'emploie, puis comment elle peut devenir une liberté plutôt qu'une quête de
 statut sans fin. Les entretiens de School of Hard Knocks en sont la trame
 humaine et factuelle. Les réussites sont confrontées à l'échec, la chance, les
@@ -33,15 +33,15 @@ trois. Elle ne peut pas décider de l'usage de cet espace.
 
 | Format | Usage | Ouvrir |
 | --- | --- | --- |
-| Site du livre | Idée, structure, éditions et actualités | [Visiter](https://lachlanchen.github.io/HowYouGotRich/) |
-| Livre web natif | Texte intégral consultable, équations, figures et navigation | [Lire](https://lachlanchen.github.io/HowYouGotRich/chapters/note-on-the-conversations.html) |
-| Carte du livre | Rechercher le texte ou parcourir l'argument en cinq parties | [Explorer](https://lachlanchen.github.io/HowYouGotRich/book.html) |
-| Éditions PDF | Formats facultatifs pour écran, impression et téléchargement | [Ouvrir](https://lachlanchen.github.io/HowYouGotRich/reader.html) |
-| PDF grand format · 163 pages | Impression, ordinateur et grande tablette | [Télécharger](../editions/how-you-got-rich.pdf) |
-| PDF poche 1.2x · 349 pages | Liseuse, petit écran et impression 6x9 | [Télécharger](../editions/how-you-got-rich-pocket-1.2x.pdf) |
+| Site du livre | Idée, structure, éditions et actualités | [Visiter](https://lachlanchen.github.io/HowDidYouGetRich/) |
+| Livre web natif | Texte intégral consultable, équations, figures et navigation | [Lire](https://lachlanchen.github.io/HowDidYouGetRich/chapters/note-on-the-conversations.html) |
+| Carte du livre | Rechercher le texte ou parcourir l'argument en cinq parties | [Explorer](https://lachlanchen.github.io/HowDidYouGetRich/book.html) |
+| Éditions PDF | Formats facultatifs pour écran, impression et téléchargement | [Ouvrir](https://lachlanchen.github.io/HowDidYouGetRich/reader.html) |
+| PDF grand format · 163 pages | Impression, ordinateur et grande tablette | [Télécharger](../editions/how-did-you-get-rich.pdf) |
+| PDF poche 1.2x · 349 pages | Liseuse, petit écran et impression 6x9 | [Télécharger](../editions/how-did-you-get-rich-pocket-1.2x.pdf) |
 
-La V2 reste archivée en [grand format](../editions/v2/how-you-got-rich-v2.pdf) et
-en [poche 1.2x](../editions/v2/how-you-got-rich-v2-pocket-1.2x.pdf). Les liens
+La V2 reste archivée en [grand format](../editions/v2/how-did-you-get-rich-v2.pdf) et
+en [poche 1.2x](../editions/v2/how-did-you-get-rich-v2-pocket-1.2x.pdf). Les liens
 non versionnés ne changent qu'après validation des sources, du texte et de la
 mise en page.
 
@@ -96,11 +96,11 @@ curaté par [LazyingArt](https://lazying.art) et
 GitHub utilise [`CITATION.cff`](../CITATION.cff) pour exporter les citations.
 
 ```bibtex
-@book{lazyingart2026howyougotrich,
+@book{lazyingart2026howdidyougetrich,
   author    = {{LazyingArt LLC}},
-  title     = {How You Got Rich: From Abundance to Fulfillment and Contentment},
+  title     = {How Did You Get Rich? From Abundance to Fulfillment and Contentment},
   year      = {2026},
   publisher = {LazyingArt and LazyLearn},
-  url       = {https://github.com/lachlanchen/HowYouGotRich}
+  url       = {https://github.com/lachlanchen/HowDidYouGetRich}
 }
 ```

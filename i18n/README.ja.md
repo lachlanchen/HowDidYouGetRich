@@ -2,18 +2,18 @@
 
 [![LazyingArt バナー](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# How You Got Rich
+# How Did You Get Rich?
 
 ### 豊かさから充実、そして足るを知ることへ
 
-[![オンラインで読む](https://img.shields.io/badge/読む-オンライン-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowYouGotRich/)
-[![フルサイズ PDF](https://img.shields.io/badge/PDF-フルサイズ-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-you-got-rich.pdf)
-[![ポケット PDF](https://img.shields.io/badge/PDF-ポケット_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-you-got-rich-pocket-1.2x.pdf)
+[![オンラインで読む](https://img.shields.io/badge/読む-オンライン-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowDidYouGetRich/)
+[![フルサイズ PDF](https://img.shields.io/badge/PDF-フルサイズ-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-did-you-get-rich.pdf)
+[![ポケット PDF](https://img.shields.io/badge/PDF-ポケット_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-did-you-get-rich-pocket-1.2x.pdf)
 [![GitHub Sponsors](https://img.shields.io/badge/支援-lachlanchen-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/lachlanchen)
 
-<p align="center"><a href="../editions/how-you-got-rich.pdf"><img src="../assets/cover-page-1.png" alt="How You Got Rich の表紙" width="520"></a></p>
+<p align="center"><a href="../editions/how-did-you-get-rich.pdf"><img src="../assets/cover-page-1.png" alt="How Did You Get Rich? の表紙" width="520"></a></p>
 
-*How You Got Rich* は、人がどのように富を生み、守り、使うのか、そして
+*How Did You Get Rich?* は、人がどのように富を生み、守り、使うのか、そして
 富を終わりのない地位競争ではなく自由へ変えるにはどうすればよいのかを
 率直に探る本です。School of Hard Knocks のインタビューを人間的かつ
 実証的な背骨とし、成功談を失敗、運、出発条件、インセンティブ、
@@ -32,15 +32,15 @@
 
 | 形式 | 用途 | 開く |
 | --- | --- | --- |
-| 書籍サイト | 主題、構成、版、更新情報 | [訪問](https://lachlanchen.github.io/HowYouGotRich/) |
-| ネイティブ Web ブック | 検索可能な全文、数式、図、章ナビゲーション | [読む](https://lachlanchen.github.io/HowYouGotRich/chapters/note-on-the-conversations.html) |
-| ブックマップ | 全文検索または五部構成の論旨を閲覧 | [見る](https://lachlanchen.github.io/HowYouGotRich/book.html) |
-| PDF 版 | 画面、印刷、ダウンロード用の任意形式 | [開く](https://lachlanchen.github.io/HowYouGotRich/reader.html) |
-| フルサイズ PDF · 163ページ | 印刷、デスクトップ、大型タブレット | [ダウンロード](../editions/how-you-got-rich.pdf) |
-| ポケット 1.2x PDF · 349ページ | 電子書籍端末、小型画面、6x9印刷 | [ダウンロード](../editions/how-you-got-rich-pocket-1.2x.pdf) |
+| 書籍サイト | 主題、構成、版、更新情報 | [訪問](https://lachlanchen.github.io/HowDidYouGetRich/) |
+| ネイティブ Web ブック | 検索可能な全文、数式、図、章ナビゲーション | [読む](https://lachlanchen.github.io/HowDidYouGetRich/chapters/note-on-the-conversations.html) |
+| ブックマップ | 全文検索または五部構成の論旨を閲覧 | [見る](https://lachlanchen.github.io/HowDidYouGetRich/book.html) |
+| PDF 版 | 画面、印刷、ダウンロード用の任意形式 | [開く](https://lachlanchen.github.io/HowDidYouGetRich/reader.html) |
+| フルサイズ PDF · 163ページ | 印刷、デスクトップ、大型タブレット | [ダウンロード](../editions/how-did-you-get-rich.pdf) |
+| ポケット 1.2x PDF · 349ページ | 電子書籍端末、小型画面、6x9印刷 | [ダウンロード](../editions/how-did-you-get-rich-pocket-1.2x.pdf) |
 
-V2 は[フルサイズ](../editions/v2/how-you-got-rich-v2.pdf)と
-[ポケット 1.2x](../editions/v2/how-you-got-rich-v2-pocket-1.2x.pdf)で恒久保存
+V2 は[フルサイズ](../editions/v2/how-did-you-get-rich-v2.pdf)と
+[ポケット 1.2x](../editions/v2/how-did-you-get-rich-v2-pocket-1.2x.pdf)で恒久保存
 されます。バージョンなしのリンクは、出典、編集、組版の審査を通過した版に
 のみ更新されます。
 
@@ -95,11 +95,11 @@ make serve
 GitHub は [`CITATION.cff`](../CITATION.cff) から引用情報を出力します。
 
 ```bibtex
-@book{lazyingart2026howyougotrich,
+@book{lazyingart2026howdidyougetrich,
   author    = {{LazyingArt LLC}},
-  title     = {How You Got Rich: From Abundance to Fulfillment and Contentment},
+  title     = {How Did You Get Rich? From Abundance to Fulfillment and Contentment},
   year      = {2026},
   publisher = {LazyingArt and LazyLearn},
-  url       = {https://github.com/lachlanchen/HowYouGotRich}
+  url       = {https://github.com/lachlanchen/HowDidYouGetRich}
 }
 ```

@@ -5,7 +5,7 @@
   "number": null,
   "part": null,
   "source_path": "source/book/manuscript/introduction.tex",
-  "source_sha256": "2973ac08fd516459f6c2bdb9be5e92a01d67cce93de827077851c79b1e6ec788",
+  "source_sha256": "47ebaf9bfc286799aaae6d40e6a5a7892428c95041aaeb4e30ea398f364c3044",
   "metadata": {
     "source_sha256": "4cf8d91f4f500028fa89916d6e33746f707635b99550d1868b989591474af145",
     "title": {
@@ -18196,14 +18196,14 @@
     {
       "id": "introduction-b0020",
       "kind": "Para",
-      "source_sha256": "ecf4a901ba39a88944ac089f494d5f8170f6dc3c15f8ff25f479515fae600767",
+      "source_sha256": "f12ee5672c54b28b3e9266fddfa9ea8b1102b59e1d4e1662bec8e6d62a52ba49",
       "structure": {
         "type": "Para"
       },
       "protected": [],
       "en": {
         "status": "source",
-        "markdown": "The title of this book is deliberately addressed to someone else: *How you got rich.* Curiosity begins there. The useful work begins when the pronoun changes. What are *we* trying to make possible? What must remain true if the plan succeeds? What are we unwilling to spend, even for more?",
+        "markdown": "The title of this book is deliberately addressed to someone else: *How did you get rich?* Curiosity begins there. The useful work begins when the pronoun changes. What are *we* trying to make possible? What must remain true if the plan succeeds? What are we unwilling to spend, even for more?",
         "tokens": [
           {
             "t": "The"
@@ -18281,13 +18281,19 @@
             "t": " "
           },
           {
+            "t": "did"
+          },
+          {
+            "t": " "
+          },
+          {
             "t": "you"
           },
           {
             "t": " "
           },
           {
-            "t": "got"
+            "t": "get"
           },
           {
             "t": " "
@@ -18296,7 +18302,7 @@
             "t": "rich"
           },
           {
-            "t": "."
+            "t": "?"
           },
           {
             "t": " "
@@ -18530,8 +18536,8 @@
       },
       "ja": {
         "status": "reviewed",
-        "source_sha256": "ecf4a901ba39a88944ac089f494d5f8170f6dc3c15f8ff25f479515fae600767",
-        "markdown": "本書のタイトルは、意図的に別の誰かへ向けられている。*あなたはいかにして裕福になったのか。* 好奇心はそこから始まる。有用な仕事は、代名詞が変わるところから始まる。*私たち*は何を可能にしようとしているのか。計画が成功したとしても、何が変わらず真実でなければならないのか。たとえより多くを得るためであっても、私たちは何を費やしたくないのか。",
+        "source_sha256": "f12ee5672c54b28b3e9266fddfa9ea8b1102b59e1d4e1662bec8e6d62a52ba49",
+        "markdown": "本書のタイトルは、意図的に別の誰かへ向けられている。*あなたはどうやって富を築いたのか？* 好奇心はそこから始まる。有用な仕事は、代名詞が変わるところから始まる。*私たち*は何を可能にしようとしているのか。計画が成功したとしても、何が変わらず真実でなければならないのか。たとえより多くを得るためであっても、私たちは何を費やしたくないのか。",
         "tokens": [
           {
             "t": "本書",
@@ -18600,23 +18606,24 @@
             "t": "は"
           },
           {
-            "t": "いかに"
+            "t": "どう"
           },
           {
-            "t": "し"
+            "t": "やっ"
           },
           {
             "t": "て"
           },
           {
-            "t": "裕福",
-            "r": "ゆうふく"
+            "t": "富",
+            "r": "とみ"
           },
           {
-            "t": "に"
+            "t": "を"
           },
           {
-            "t": "なっ"
+            "t": "築い",
+            "r": "きずい"
           },
           {
             "t": "た"
@@ -18628,7 +18635,7 @@
             "t": "か"
           },
           {
-            "t": "。"
+            "t": "？"
           },
           {
             "t": " "
@@ -18895,15 +18902,12 @@
           {
             "t": "。"
           }
-        ],
-        "model": "gpt-5.6-sol",
-        "reasoning": "xhigh",
-        "reviewed_at": "2026-08-26T05:00:01.032023+00:00"
+        ]
       },
       "zh": {
         "status": "reviewed",
-        "source_sha256": "ecf4a901ba39a88944ac089f494d5f8170f6dc3c15f8ff25f479515fae600767",
-        "markdown": "本书的标题有意问的是另一个人：*你是如何变富的。*好奇心由此开始。真正有用的工作，则始于代词发生变化之时。*我们*想让什么成为可能？如果计划成功，哪些事情必须依然成立？即使能换来更多，我们也不愿耗费什么？",
+        "source_sha256": "f12ee5672c54b28b3e9266fddfa9ea8b1102b59e1d4e1662bec8e6d62a52ba49",
+        "markdown": "本书的标题有意问的是另一个人：*你是如何致富的？*好奇心由此开始。真正有用的工作，则始于代词发生变化之时。*我们*想让什么成为可能？如果计划成功，哪些事情必须依然成立？即使能换来更多，我们也不愿耗费什么？",
         "tokens": [
           {
             "t": "本书",
@@ -18961,15 +18965,15 @@
             "r": "rú hé"
           },
           {
-            "t": "变富",
-            "r": "biàn fù"
+            "t": "致富",
+            "r": "zhì fù"
           },
           {
             "t": "的",
             "r": "de"
           },
           {
-            "t": "。"
+            "t": "？"
           },
           {
             "t": "好奇心",
@@ -19143,10 +19147,7 @@
           {
             "t": "？"
           }
-        ],
-        "model": "gpt-5.6-sol",
-        "reasoning": "xhigh",
-        "reviewed_at": "2026-08-26T05:00:01.044044+00:00"
+        ]
       }
     },
     {

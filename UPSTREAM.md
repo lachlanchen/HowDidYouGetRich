@@ -1,6 +1,6 @@
 # Publication Provenance
 
-This repository is the curated publication surface for *How You Got Rich*.
+This repository is the curated publication surface for *How Did You Get Rich?*.
 The broader source project is
 [`lachlanchen/LazyEarn`](https://github.com/lachlanchen/LazyEarn). V3 was
 developed on its evidence-rich `wealth-book-v3` branch and accepted into

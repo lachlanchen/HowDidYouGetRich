@@ -1,6 +1,6 @@
 # Website
 
-This directory contains the source for the *How You Got Rich* website. The
+This directory contains the source for the *How Did You Get Rich?* website. The
 published site combines three reader-facing forms:
 
 - `index.html`: premise, philosophy, editions, and book structure;

@@ -1,7 +1,7 @@
 "use strict";
 
-const READING_STATE_KEY = "how-you-got-rich:web-reading-state";
-const LANGUAGE_STATE_KEY = "how-you-got-rich:reading-language";
+const READING_STATE_KEY = "how-did-you-get-rich:web-reading-state";
+const LANGUAGE_STATE_KEY = "how-did-you-get-rich:reading-language";
 const LANGUAGE_MODES = new Set(["en", "ja", "zh", "all"]);
 
 function setupLanguageSwitcher() {

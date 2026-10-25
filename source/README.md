@@ -1,6 +1,6 @@
 # Book Source
 
-`book/how-you-got-rich.tex` is the canonical entry point. It draws its shared
+`book/how-did-you-get-rich.tex` is the canonical entry point. It draws its shared
 packages and macros from `common_preamble.tex`, chapter text from
 `book/manuscript/`, documentary images from `book/manuscript/figures/`, and the
 text-free cover image from `book/cover/cover-art.png`.

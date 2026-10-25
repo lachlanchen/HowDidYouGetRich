@@ -3,7 +3,7 @@
 This repository keeps every accepted reader edition so changes can be compared
 without losing a known-good book.
 
-- `editions/how-you-got-rich.pdf` and its pocket counterpart always identify
+- `editions/how-did-you-get-rich.pdf` and its pocket counterpart always identify
   the latest accepted edition.
 - `editions/v2/` permanently preserves V2, including checksums.
 - `editions/v3/` permanently preserves V3, including checksums.
@@ -14,6 +14,11 @@ without losing a known-good book.
   records source and output checksums for every reading. Historical PDFs remain
   the fixed comparison artifacts when the web presentation evolves.
 
+On October 25, 2026, the public title changed from *How You Got Rich* to
+*How Did You Get Rich?* The V2 and V3 bodies remain unchanged; their title
+pages, metadata, filenames, and checksums were updated transparently to keep
+the publication identity consistent.
+
 GitHub releases provide convenient immutable downloads. The `v2.0.0` release
 contains the full-size and 1.2x pocket V2 PDFs; `v3.0.0` contains the accepted
 V3 pair.
@@ -21,6 +26,6 @@ V3 pair.
 ## Repository History
 
 Two standalone publication repositories were created during the first export.
-`lachlanchen/HowYouGotRich` is now canonical. Their histories remain available
+`lachlanchen/HowDidYouGetRich` is now canonical. Their histories remain available
 here as `archive/initial-camelcase-publication` and
 `archive/hyphenated-publication`; no accepted book or commit was discarded.

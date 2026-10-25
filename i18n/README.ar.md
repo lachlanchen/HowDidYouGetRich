@@ -2,18 +2,18 @@
 
 [![شعار LazyingArt](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# How You Got Rich
+# How Did You Get Rich?
 
 ### من الوفرة إلى الإنجاز والقناعة
 
-[![اقرأ على الويب](https://img.shields.io/badge/Read-Online-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowYouGotRich/)
-[![PDF كامل](https://img.shields.io/badge/PDF-Full_Size-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-you-got-rich.pdf)
-[![PDF جيب](https://img.shields.io/badge/PDF-Pocket_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-you-got-rich-pocket-1.2x.pdf)
+[![اقرأ على الويب](https://img.shields.io/badge/Read-Online-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowDidYouGetRich/)
+[![PDF كامل](https://img.shields.io/badge/PDF-Full_Size-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-did-you-get-rich.pdf)
+[![PDF جيب](https://img.shields.io/badge/PDF-Pocket_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-did-you-get-rich-pocket-1.2x.pdf)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-lachlanchen-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/lachlanchen)
 
-<p align="center"><a href="../editions/how-you-got-rich.pdf"><img src="../assets/cover-page-1.png" alt="غلاف How You Got Rich" width="520"></a></p>
+<p align="center"><a href="../editions/how-did-you-get-rich.pdf"><img src="../assets/cover-page-1.png" alt="غلاف How Did You Get Rich?" width="520"></a></p>
 
-يبحث *How You Got Rich* بصراحة في كيفية صنع الثروة والحفاظ عليها واستخدامها،
+يبحث *How Did You Get Rich?* بصراحة في كيفية صنع الثروة والحفاظ عليها واستخدامها،
 وكيف يمكن أن تتحول إلى حرية بدلا من سعي لا ينتهي وراء المكانة. تشكل مقابلات
 School of Hard Knocks العمود الفقري الإنساني والاستدلالي للكتاب. وتختبر قصص
 النجاح في ضوء الفشل والحظ وظروف البداية والحوافز وانحياز البقاء والتكاليف التي
@@ -32,15 +32,15 @@ School of Hard Knocks العمود الفقري الإنساني والاستد�
 
 | الصيغة | الأنسب لها | الرابط |
 | --- | --- | --- |
-| موقع الكتاب | الفكرة والبنية والإصدارات والتحديثات | [زيارة](https://lachlanchen.github.io/HowYouGotRich/) |
-| كتاب ويب أصلي | النص الكامل القابل للبحث والمعادلات والصور والتنقل | [قراءة](https://lachlanchen.github.io/HowYouGotRich/chapters/note-on-the-conversations.html) |
-| خريطة الكتاب | البحث في النص أو استكشاف الحجة في خمسة أجزاء | [استكشاف](https://lachlanchen.github.io/HowYouGotRich/book.html) |
-| إصدارات PDF | صيغ اختيارية للعرض والطباعة والتنزيل | [فتح](https://lachlanchen.github.io/HowYouGotRich/reader.html) |
-| PDF كامل · 163 صفحة | الطباعة والحاسوب والأجهزة اللوحية الكبيرة | [تنزيل](../editions/how-you-got-rich.pdf) |
-| PDF جيب 1.2x · 349 صفحة | القارئات والشاشات الصغيرة وطباعة 6x9 | [تنزيل](../editions/how-you-got-rich-pocket-1.2x.pdf) |
+| موقع الكتاب | الفكرة والبنية والإصدارات والتحديثات | [زيارة](https://lachlanchen.github.io/HowDidYouGetRich/) |
+| كتاب ويب أصلي | النص الكامل القابل للبحث والمعادلات والصور والتنقل | [قراءة](https://lachlanchen.github.io/HowDidYouGetRich/chapters/note-on-the-conversations.html) |
+| خريطة الكتاب | البحث في النص أو استكشاف الحجة في خمسة أجزاء | [استكشاف](https://lachlanchen.github.io/HowDidYouGetRich/book.html) |
+| إصدارات PDF | صيغ اختيارية للعرض والطباعة والتنزيل | [فتح](https://lachlanchen.github.io/HowDidYouGetRich/reader.html) |
+| PDF كامل · 163 صفحة | الطباعة والحاسوب والأجهزة اللوحية الكبيرة | [تنزيل](../editions/how-did-you-get-rich.pdf) |
+| PDF جيب 1.2x · 349 صفحة | القارئات والشاشات الصغيرة وطباعة 6x9 | [تنزيل](../editions/how-did-you-get-rich-pocket-1.2x.pdf) |
 
-يبقى الإصدار V2 محفوظا بالحجم [الكامل](../editions/v2/how-you-got-rich-v2.pdf)
-وبنسخة [الجيب 1.2x](../editions/v2/how-you-got-rich-v2-pocket-1.2x.pdf). ولا تنتقل
+يبقى الإصدار V2 محفوظا بالحجم [الكامل](../editions/v2/how-did-you-get-rich-v2.pdf)
+وبنسخة [الجيب 1.2x](../editions/v2/how-did-you-get-rich-v2-pocket-1.2x.pdf). ولا تنتقل
 الروابط غير المرقمة إلى إصدار جديد إلا بعد مراجعة المصادر والتحرير والتنسيق.
 
 ## حجة الكتاب
@@ -92,11 +92,11 @@ make serve
 يستخدم GitHub ملف [`CITATION.cff`](../CITATION.cff) لتصدير بيانات الاستشهاد.
 
 ```bibtex
-@book{lazyingart2026howyougotrich,
+@book{lazyingart2026howdidyougetrich,
   author    = {{LazyingArt LLC}},
-  title     = {How You Got Rich: From Abundance to Fulfillment and Contentment},
+  title     = {How Did You Get Rich? From Abundance to Fulfillment and Contentment},
   year      = {2026},
   publisher = {LazyingArt and LazyLearn},
-  url       = {https://github.com/lachlanchen/HowYouGotRich}
+  url       = {https://github.com/lachlanchen/HowDidYouGetRich}
 }
 ```

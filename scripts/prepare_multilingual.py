@@ -28,9 +28,9 @@ from multilingual_common import (
 
 
 BOOK_TITLES = {
-    "en": "How You Got Rich",
-    "ja": "あなたはいかにして富を築いたか",
-    "zh": "你是如何致富的",
+    "en": "How Did You Get Rich?",
+    "ja": "あなたはどうやって富を築いたのか？",
+    "zh": "你是如何致富的？",
 }
 BOOK_SUBTITLES = {
     "en": "From Abundance to Fulfillment and Contentment",
@@ -55,7 +55,7 @@ def source_commit() -> str:
             "--format=%H",
             "--",
             "source/book/manuscript",
-            "source/book/how-you-got-rich.tex",
+            "source/book/how-did-you-get-rich.tex",
         ],
         cwd=ROOT,
         text=True,

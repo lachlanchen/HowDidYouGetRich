@@ -2,25 +2,25 @@
 
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# How You Got Rich
+# How Did You Get Rich?
 
 ### From Abundance to Fulfillment and Contentment
 
-[![Read online](https://img.shields.io/badge/Read-Online-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowYouGotRich/)
-[![Full PDF](https://img.shields.io/badge/PDF-Full_Size-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](editions/how-you-got-rich.pdf)
-[![Pocket PDF](https://img.shields.io/badge/PDF-Pocket_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](editions/how-you-got-rich-pocket-1.2x.pdf)
-[![日本語 PDF](https://img.shields.io/badge/PDF-日本語-335F57?style=for-the-badge&logo=bookstack&logoColor=white)](editions/languages/how-you-got-rich-ja.pdf)
-[![中文 PDF](https://img.shields.io/badge/PDF-中文-8A3B29?style=for-the-badge&logo=bookstack&logoColor=white)](editions/languages/how-you-got-rich-zh.pdf)
-[![EN JA ZH](https://img.shields.io/badge/PDF-EN_·_JA_·_ZH-9A783D?style=for-the-badge&logo=bookstack&logoColor=white)](editions/languages/how-you-got-rich-en-ja-zh.pdf)
+[![Read online](https://img.shields.io/badge/Read-Online-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowDidYouGetRich/)
+[![Full PDF](https://img.shields.io/badge/PDF-Full_Size-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](editions/how-did-you-get-rich.pdf)
+[![Pocket PDF](https://img.shields.io/badge/PDF-Pocket_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](editions/how-did-you-get-rich-pocket-1.2x.pdf)
+[![日本語 PDF](https://img.shields.io/badge/PDF-日本語-335F57?style=for-the-badge&logo=bookstack&logoColor=white)](editions/languages/how-did-you-get-rich-ja.pdf)
+[![中文 PDF](https://img.shields.io/badge/PDF-中文-8A3B29?style=for-the-badge&logo=bookstack&logoColor=white)](editions/languages/how-did-you-get-rich-zh.pdf)
+[![EN JA ZH](https://img.shields.io/badge/PDF-EN_·_JA_·_ZH-9A783D?style=for-the-badge&logo=bookstack&logoColor=white)](editions/languages/how-did-you-get-rich-en-ja-zh.pdf)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-lachlanchen-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/lachlanchen)
 
 <p align="center">
-  <a href="editions/how-you-got-rich.pdf">
-    <img src="assets/cover-page-1.png" alt="How You Got Rich cover" width="520">
+  <a href="editions/how-did-you-get-rich.pdf">
+    <img src="assets/cover-page-1.png" alt="How Did You Get Rich? cover" width="520">
   </a>
 </p>
 
-*How You Got Rich* is a candid investigation of how people create, keep, and
+*How Did You Get Rich?* is a candid investigation of how people create, keep, and
 use wealth, and how wealth can become freedom rather than status without an
 end. The School of Hard Knocks interviews provide its human and evidentiary
 spine. Their success stories are tested against failure, luck, starting
@@ -39,26 +39,26 @@ decide how that room should be used.
 
 ### Read in Bunko
 
-The complete English, Japanese, and Chinese edition is also in the [Bunko web reader](https://lachlan.lazying.art/Bunko/?book=how-you-got-rich) for language comparison and offline chapter caching. [Bunko on the App Store](https://apps.apple.com/us/app/bunko-classics-with-ruby/id6815137919) is live, but this book's shelf is currently in the app's internal test build; use the web reader until that update is public. Google Play package `art.lazying.bunko` is awaiting public release.
+The complete English, Japanese, and Chinese edition is also in the [Bunko web reader](https://lachlan.lazying.art/Bunko/?book=how-did-you-get-rich) for language comparison and offline chapter caching. [Bunko on the App Store](https://apps.apple.com/us/app/bunko-classics-with-ruby/id6815137919) is live, but this book's shelf is currently in the app's internal test build; use the web reader until that update is public. Google Play package `art.lazying.bunko` is awaiting public release.
 
 | Format | Best for | Open |
 | --- | --- | --- |
-| Native web book | Complete searchable EN, 日本語, 中文, or aligned Together reading with ruby annotations | [Read](https://lachlanchen.github.io/HowYouGotRich/chapters/note-on-the-conversations.html) |
-| Book map | Search all prose or browse the five-part argument | [Explore](https://lachlanchen.github.io/HowYouGotRich/book.html) |
-| PDF editions | Optional browser, print, and download formats | [Open](https://lachlanchen.github.io/HowYouGotRich/reader.html) |
-| Full-size V3 PDF · 163 pages | Print, desktop, and larger tablets | [Download](editions/how-you-got-rich.pdf) |
-| Pocket V3 1.2x PDF · 349 pages | E-readers, compact screens, and 6x9 printing | [Download](editions/how-you-got-rich-pocket-1.2x.pdf) |
-| 日本語 · 186 / 326 pages | Japanese text with furigana over kanji | [Full](editions/languages/how-you-got-rich-ja.pdf) · [Pocket](editions/languages/how-you-got-rich-ja-pocket-1.2x.pdf) |
-| 中文 · 167 / 270 pages | Simplified Chinese text with pinyin | [Full](editions/languages/how-you-got-rich-zh.pdf) · [Pocket](editions/languages/how-you-got-rich-zh-pocket-1.2x.pdf) |
-| EN · 日本語 · 中文 · 520 / 931 pages | Maximum-language edition aligned block by block | [Full](editions/languages/how-you-got-rich-en-ja-zh.pdf) · [Pocket](editions/languages/how-you-got-rich-en-ja-zh-pocket-1.2x.pdf) |
+| Native web book | Complete searchable EN, 日本語, 中文, or aligned Together reading with ruby annotations | [Read](https://lachlanchen.github.io/HowDidYouGetRich/chapters/note-on-the-conversations.html) |
+| Book map | Search all prose or browse the five-part argument | [Explore](https://lachlanchen.github.io/HowDidYouGetRich/book.html) |
+| PDF editions | Optional browser, print, and download formats | [Open](https://lachlanchen.github.io/HowDidYouGetRich/reader.html) |
+| Full-size V3 PDF · 163 pages | Print, desktop, and larger tablets | [Download](editions/how-did-you-get-rich.pdf) |
+| Pocket V3 1.2x PDF · 349 pages | E-readers, compact screens, and 6x9 printing | [Download](editions/how-did-you-get-rich-pocket-1.2x.pdf) |
+| 日本語 · 186 / 326 pages | Japanese text with furigana over kanji | [Full](editions/languages/how-did-you-get-rich-ja.pdf) · [Pocket](editions/languages/how-did-you-get-rich-ja-pocket-1.2x.pdf) |
+| 中文 · 167 / 270 pages | Simplified Chinese text with pinyin | [Full](editions/languages/how-did-you-get-rich-zh.pdf) · [Pocket](editions/languages/how-did-you-get-rich-zh-pocket-1.2x.pdf) |
+| EN · 日本語 · 中文 · 520 / 931 pages | Maximum-language edition aligned block by block | [Full](editions/languages/how-did-you-get-rich-en-ja-zh.pdf) · [Pocket](editions/languages/how-did-you-get-rich-en-ja-zh-pocket-1.2x.pdf) |
 
 The reviewed [aligned JSON source](multilingual/entries/) preserves all 1,164
 English blocks with their Japanese and Chinese counterparts, source hashes,
 protected equations and figures, plus deterministic furigana and pinyin tokens.
 
 V3 is fixed in its [versioned archive](editions/v3/README.md). V2 remains
-permanently available as [full size](editions/v2/how-you-got-rich-v2.pdf) and
-[pocket 1.2x](editions/v2/how-you-got-rich-v2-pocket-1.2x.pdf). Unversioned links
+permanently available as [full size](editions/v2/how-did-you-get-rich-v2.pdf) and
+[pocket 1.2x](editions/v2/how-did-you-get-rich-v2-pocket-1.2x.pdf). Unversioned links
 move only when a later edition has passed source, editorial, and layout review.
 See the [edition policy](VERSIONING.md).
 
@@ -132,11 +132,11 @@ Written and curated by [LazyingArt](https://lazying.art) and
 GitHub reads [`CITATION.cff`](CITATION.cff) and provides citation exports.
 
 ```bibtex
-@book{lazyingart2026howyougotrich,
+@book{lazyingart2026howdidyougetrich,
   author    = {{LazyingArt LLC}},
-  title     = {How You Got Rich: From Abundance to Fulfillment and Contentment},
+  title     = {How Did You Get Rich? From Abundance to Fulfillment and Contentment},
   year      = {2026},
   publisher = {LazyingArt and LazyLearn},
-  url       = {https://github.com/lachlanchen/HowYouGotRich}
+  url       = {https://github.com/lachlanchen/HowDidYouGetRich}
 }
 ```

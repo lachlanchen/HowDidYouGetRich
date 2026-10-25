@@ -16,11 +16,11 @@ for pass in 1 2 3; do
       -halt-on-error \
       -file-line-error \
       -output-directory="$output_dir" \
-      how-you-got-rich.tex
+      how-did-you-get-rich.tex
   ) >"$log_dir/full-pass-$pass.log" 2>&1
 done
 
-pdf="$output_dir/how-you-got-rich.pdf"
+pdf="$output_dir/how-did-you-get-rich.pdf"
 test -s "$pdf"
 printf 'Built %s\n' "$pdf"
 sha256sum "$pdf"

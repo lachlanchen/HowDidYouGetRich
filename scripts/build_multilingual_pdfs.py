@@ -90,7 +90,7 @@ def run(command: list[str], *, cwd: Path, log: Path | None = None) -> None:
 def edition_stem(language: str, pocket: bool) -> str:
     suffix = "en-ja-zh" if language == "all" else language
     pocket_suffix = "-pocket-1.2x" if pocket else ""
-    return f"how-you-got-rich-{suffix}{pocket_suffix}"
+    return f"how-did-you-get-rich-{suffix}{pocket_suffix}"
 
 
 def localized_frontmatter(language: str) -> tuple[str, str, str, str]:
@@ -130,7 +130,7 @@ def preamble(language: str, pocket: bool) -> str:
 \setlength{\headheight}{36pt}"""
     else:
         running_heads = r"""\fancyhead[LO]{\small\itshape\nouppercase{\leftmark}}
-\fancyhead[RE]{\small\scshape How You Got Rich}
+\fancyhead[RE]{\small\scshape How Did You Get Rich?}
 \setlength{\headheight}{22pt}"""
     return rf"""\documentclass[11pt,twoside,openright]{{book}}
 \usepackage[paperwidth={width},paperheight={height},inner={margin},outer={margin},top={margin},bottom={margin}]{{geometry}}
@@ -168,7 +168,7 @@ def preamble(language: str, pocket: bool) -> str:
 \definecolor{{japaneseink}}{{HTML}}{{335F57}}
 \definecolor{{chineseink}}{{HTML}}{{8A3B29}}
 \hypersetup{{
-  pdftitle={{How You Got Rich}},
+  pdftitle={{How Did You Get Rich?}},
   pdfauthor={{LazyingArt · LazyLearn}},
   pdfsubject={{{tex_escape(SUBTITLES.get(language, SUBTITLES['en']))}}},
   colorlinks=true,
@@ -232,6 +232,9 @@ def title_page(language: str, pocket: bool) -> str:
     title_size = "28" if pocket else "38"
     title_leading = "31" if pocket else "42"
     subtitle = SUBTITLES["en"] if language == "all" else SUBTITLES[language]
+    subtitle_tex = tex_escape(subtitle)
+    if pocket and language in {"en", "all"}:
+        subtitle_tex = r"From Abundance to\\Fulfillment and Contentment"
     local_lines = ""
     if language == "all":
         local_lines = (
@@ -244,11 +247,11 @@ def title_page(language: str, pocket: bool) -> str:
     return rf"""\begin{{titlepage}}
 \thispagestyle{{empty}}
 \begin{{tikzpicture}}[remember picture,overlay]
-  \node[anchor=center,inner sep=0] at (current page.center) {{\includegraphics[height=\paperheight]{{cover-art.png}}}};
+  \node[anchor=center,inner sep=0] at (current page.center) {{\includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio=false]{{cover-art.png}}}};
   \node[anchor=north east,align=right,text width=0.64\paperwidth,inner sep=0pt]
     at ([xshift=-0.07\paperwidth,yshift=-0.07\paperheight]current page.north east) {{%
-      {{\fontsize{{{title_size}}}{{{title_leading}}}\selectfont\bfseries\color{{wealthink}} HOW YOU\\GOT RICH\par}}
-      \vspace{{0.85em}}{{\large\itshape\color{{wealthink!78}} {tex_escape(subtitle)}\par}}
+      {{\fontsize{{{title_size}}}{{{title_leading}}}\selectfont\bfseries\color{{wealthink}} HOW DID YOU\\GET RICH?\par}}
+      \vspace{{0.85em}}{{\large\itshape\color{{wealthink!78}} {subtitle_tex}\par}}
       {local_lines}
       \vspace{{0.9em}}{{\small\sffamily\bfseries\color{{wealthfire}} {tex_escape(EDITION_LABELS[language])}\par}}
     }};
@@ -284,7 +287,7 @@ def copyright_page(language: str) -> str:
     return rf"""\cleardoublepage
 \thispagestyle{{empty}}
 \vspace*{{0.10\textheight}}
-{{\Huge\bfseries How You Got Rich\par}}
+{{\Huge\bfseries How Did You Get Rich?\par}}
 \vspace{{0.6em}}
 {{\Large\itshape {tex_escape(SUBTITLES['en'] if language == 'all' else SUBTITLES[language])}\par}}
 \vfill
@@ -502,10 +505,10 @@ def publish_outputs(outputs: list[Path]) -> None:
 def copy_english_outputs() -> list[Path]:
     PDF_ROOT.mkdir(parents=True, exist_ok=True)
     pairs = [
-        (ROOT / "editions" / "how-you-got-rich.pdf", PDF_ROOT / "how-you-got-rich-en.pdf"),
+        (ROOT / "editions" / "how-did-you-get-rich.pdf", PDF_ROOT / "how-did-you-get-rich-en.pdf"),
         (
-            ROOT / "editions" / "how-you-got-rich-pocket-1.2x.pdf",
-            PDF_ROOT / "how-you-got-rich-en-pocket-1.2x.pdf",
+            ROOT / "editions" / "how-did-you-get-rich-pocket-1.2x.pdf",
+            PDF_ROOT / "how-did-you-get-rich-en-pocket-1.2x.pdf",
         ),
     ]
     for source, target in pairs:
@@ -550,14 +553,14 @@ def main() -> int:
         if args.only or args.no_publish:
             parser.error("--publish-existing cannot be combined with --only or --no-publish")
         stems = [
-            "how-you-got-rich-en",
-            "how-you-got-rich-en-pocket-1.2x",
-            "how-you-got-rich-ja",
-            "how-you-got-rich-ja-pocket-1.2x",
-            "how-you-got-rich-zh",
-            "how-you-got-rich-zh-pocket-1.2x",
-            "how-you-got-rich-en-ja-zh",
-            "how-you-got-rich-en-ja-zh-pocket-1.2x",
+            "how-did-you-get-rich-en",
+            "how-did-you-get-rich-en-pocket-1.2x",
+            "how-did-you-get-rich-ja",
+            "how-did-you-get-rich-ja-pocket-1.2x",
+            "how-did-you-get-rich-zh",
+            "how-did-you-get-rich-zh-pocket-1.2x",
+            "how-did-you-get-rich-en-ja-zh",
+            "how-did-you-get-rich-en-ja-zh-pocket-1.2x",
         ]
         outputs = [PDF_ROOT / f"{stem}.pdf" for stem in stems]
         missing = [str(path) for path in outputs if not path.is_file() or not path.stat().st_size]

@@ -28,7 +28,7 @@ FIGURE_OUTPUT = DOCS / "assets" / "figures"
 BOOK_DATA_PATH = DOCS / "data" / "book.json"
 WEB_MANIFEST_PATH = DOCS / "data" / "web-edition.json"
 SEARCH_INDEX_PATH = DOCS / "data" / "search-index.json"
-SITE_URL = "https://lachlanchen.github.io/HowYouGotRich"
+SITE_URL = "https://lachlanchen.github.io/HowDidYouGetRich"
 LANGUAGES = ("en", "ja", "zh")
 LANGUAGE_LABELS = {"en": "EN", "ja": "日本語", "zh": "中文"}
 
@@ -367,7 +367,7 @@ def page_template(
     )
     metadata = aligned_entry(entry.slug)["metadata"]
     question = f'<p class="chapter-question">{localized_layers(metadata["question"])}</p>'
-    description = entry.question or "Read the native HTML edition of How You Got Rich."
+    description = entry.question or "Read the native HTML edition of How Did You Get Rich?"
     schema = json.dumps(
         {
             "@context": "https://schema.org",
@@ -375,7 +375,7 @@ def page_template(
             "name": entry.title,
             "isPartOf": {
                 "@type": "Book",
-                "name": "How You Got Rich",
+                "name": "How Did You Get Rich?",
                 "author": {"@type": "Organization", "name": "LazyingArt · LazyLearn"},
             },
             "position": position,
@@ -392,10 +392,10 @@ def page_template(
     <meta name="theme-color" content="#f5efdf">
     <meta name="description" content="{html.escape(description, quote=True)}">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="{html.escape(entry.title, quote=True)} · How You Got Rich">
+    <meta property="og:title" content="{html.escape(entry.title, quote=True)} · How Did You Get Rich?">
     <meta property="og:description" content="{html.escape(description, quote=True)}">
     <meta property="og:image" content="{SITE_URL}/assets/cover-page-1.png">
-    <title>{html.escape(entry.title)} · How You Got Rich</title>
+    <title>{html.escape(entry.title)} · How Did You Get Rich?</title>
     <link rel="canonical" href="{SITE_URL}/chapters/{entry.slug}.html">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -417,13 +417,13 @@ def page_template(
     <a class="skip-link" href="#chapter-main">Skip to the chapter</a>
     <div class="reading-progress" aria-hidden="true"><span id="reading-progress-bar"></span></div>
     <header class="site-header compact reading-site-header">
-      <a class="wordmark" href="../index.html"><span>HOW YOU</span><strong>GOT RICH</strong></a>
+      <a class="wordmark" href="../index.html"><span>HOW DID YOU</span><strong>GET RICH?</strong></a>
       <button id="web-toc-toggle" class="web-toc-toggle" type="button" aria-expanded="false" aria-controls="web-reader-toc">Contents</button>
       <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
       <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
         <a href="../book.html">Book map</a>
         <a href="../reader.html">PDF editions</a>
-        <a href="https://github.com/lachlanchen/HowYouGotRich">GitHub</a>
+        <a href="https://github.com/lachlanchen/HowDidYouGetRich">GitHub</a>
       </nav>
     </header>
 
@@ -475,8 +475,8 @@ def page_template(
         </nav>
 
         <footer class="site-footer web-reader-footer">
-          <div><strong>How You Got Rich</strong><p>Written and curated by <a href="https://lazying.art">LazyingArt</a> · <a href="https://learn.lazying.art">LazyLearn</a></p></div>
-          <nav aria-label="Footer navigation"><a href="../book.html">Book map</a><a href="../reader.html">PDF editions</a><a href="https://github.com/lachlanchen/HowYouGotRich">Contribute</a></nav>
+          <div><strong>How Did You Get Rich?</strong><p>Written and curated by <a href="https://lazying.art">LazyingArt</a> · <a href="https://learn.lazying.art">LazyLearn</a></p></div>
+          <nav aria-label="Footer navigation"><a href="../book.html">Book map</a><a href="../reader.html">PDF editions</a><a href="https://github.com/lachlanchen/HowDidYouGetRich">Contribute</a></nav>
         </footer>
       </main>
     </div>

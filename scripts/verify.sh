@@ -34,15 +34,15 @@ verify_pdf() {
   pdfinfo "$pdf" | awk -v file="$pdf" '/^Pages:|^Page size:/ {print file ": " $0}'
 }
 
-accepted_full="$repo_root/editions/how-you-got-rich.pdf"
-accepted_pocket="$repo_root/editions/how-you-got-rich-pocket-1.2x.pdf"
+accepted_full="$repo_root/editions/how-did-you-get-rich.pdf"
+accepted_pocket="$repo_root/editions/how-did-you-get-rich-pocket-1.2x.pdf"
 verify_pdf "$accepted_full" accepted-full
 verify_pdf "$accepted_pocket" accepted-pocket
-verify_pdf "$repo_root/editions/v3/how-you-got-rich-v3.pdf" archived-v3-full
-verify_pdf "$repo_root/editions/v3/how-you-got-rich-v3-pocket-1.2x.pdf" archived-v3-pocket
+verify_pdf "$repo_root/editions/v3/how-did-you-get-rich-v3.pdf" archived-v3-full
+verify_pdf "$repo_root/editions/v3/how-did-you-get-rich-v3-pocket-1.2x.pdf" archived-v3-pocket
 
-built_full="$repo_root/build/full/how-you-got-rich.pdf"
-built_pocket="$repo_root/build/pocket/how-you-got-rich-pocket-1.2x.pdf"
+built_full="$repo_root/build/full/how-did-you-get-rich.pdf"
+built_pocket="$repo_root/build/pocket/how-did-you-get-rich-pocket-1.2x.pdf"
 if [[ -f "$built_full" ]]; then
   verify_pdf "$built_full" built-full
   cmp "$verify_dir/accepted-full.txt" "$verify_dir/built-full.txt"

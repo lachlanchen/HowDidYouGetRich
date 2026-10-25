@@ -1,5 +1,5 @@
 {
-  "title": "How You Got Rich",
+  "title": "How Did You Get Rich?",
   "subtitle": "From Abundance to Fulfillment and Contentment",
   "version": "3.0.0",
   "status": "accepted",
@@ -16,12 +16,12 @@
   "editions": {
     "full": {
       "label": "Full size",
-      "file": "editions/how-you-got-rich.pdf",
+      "file": "editions/how-did-you-get-rich.pdf",
       "pages": 163
     },
     "pocket": {
       "label": "Pocket 1.2x",
-      "file": "editions/how-you-got-rich-pocket-1.2x.pdf",
+      "file": "editions/how-did-you-get-rich-pocket-1.2x.pdf",
       "pages": 349
     }
   },

@@ -11,7 +11,7 @@ mkdir -p "$publish_dir" "$(dirname "$log_path")"
 
 "$repo_root/scripts/build-pocket-variant.sh" \
   --source-root "$repo_root/source" \
-  --main-tex book/how-you-got-rich.tex \
+  --main-tex book/how-did-you-get-rich.tex \
   --compile-root "$compile_root" \
   --build-dir "$compile_output" \
   --log-path "$log_path" \
@@ -21,8 +21,8 @@ mkdir -p "$publish_dir" "$(dirname "$log_path")"
   --margin 0.55in \
   --compile-engine pdflatex
 
-source_pdf="$compile_output/how-you-got-rich.pdf"
-output_pdf="$publish_dir/how-you-got-rich-pocket-1.2x.pdf"
+source_pdf="$compile_output/how-did-you-get-rich.pdf"
+output_pdf="$publish_dir/how-did-you-get-rich-pocket-1.2x.pdf"
 test -s "$source_pdf"
 install -m 0644 "$source_pdf" "$output_pdf"
 printf 'Built %s\n' "$output_pdf"

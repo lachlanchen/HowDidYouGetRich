@@ -2,18 +2,18 @@
 
 [![LazyingArt 橫幅](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# How You Got Rich
+# How Did You Get Rich?
 
 ### 從富足到滿足與知足
 
-[![線上閱讀](https://img.shields.io/badge/閱讀-線上-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowYouGotRich/)
-[![全尺寸 PDF](https://img.shields.io/badge/PDF-全尺寸-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-you-got-rich.pdf)
-[![口袋版 PDF](https://img.shields.io/badge/PDF-口袋版_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-you-got-rich-pocket-1.2x.pdf)
+[![線上閱讀](https://img.shields.io/badge/閱讀-線上-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowDidYouGetRich/)
+[![全尺寸 PDF](https://img.shields.io/badge/PDF-全尺寸-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-did-you-get-rich.pdf)
+[![口袋版 PDF](https://img.shields.io/badge/PDF-口袋版_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-did-you-get-rich-pocket-1.2x.pdf)
 [![GitHub Sponsors](https://img.shields.io/badge/贊助-lachlanchen-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/lachlanchen)
 
-<p align="center"><a href="../editions/how-you-got-rich.pdf"><img src="../assets/cover-page-1.png" alt="《How You Got Rich》封面" width="520"></a></p>
+<p align="center"><a href="../editions/how-did-you-get-rich.pdf"><img src="../assets/cover-page-1.png" alt="《How Did You Get Rich?》封面" width="520"></a></p>
 
-《*How You Got Rich*》坦率追問：人們如何創造、守住並運用財富，又如何讓
+《*How Did You Get Rich?*》坦率追問：人們如何創造、守住並運用財富，又如何讓
 財富成為自由，而不是一場沒有終點的地位競賽。School of Hard Knocks 的
 訪談構成全書的人物與證據主線。書中的成功故事會同時面對失敗、運氣、起點、
 誘因、生存者偏差，以及由他人承擔的代價。
@@ -31,15 +31,15 @@
 
 | 形式 | 適合場景 | 開啟 |
 | --- | --- | --- |
-| 圖書網站 | 了解主旨、結構、版本與更新 | [造訪](https://lachlanchen.github.io/HowYouGotRich/) |
-| 原生網頁版 | 完整可搜尋正文、公式、圖片與章節導覽 | [閱讀](https://lachlanchen.github.io/HowYouGotRich/chapters/note-on-the-conversations.html) |
-| 全書地圖 | 搜尋正文或瀏覽五部論證結構 | [探索](https://lachlanchen.github.io/HowYouGotRich/book.html) |
-| PDF 版本 | 可選的瀏覽、列印與下載格式 | [開啟](https://lachlanchen.github.io/HowYouGotRich/reader.html) |
-| 全尺寸 PDF · 163 頁 | 列印、桌面與大螢幕平板 | [下載](../editions/how-you-got-rich.pdf) |
-| 口袋版 1.2x PDF · 349 頁 | 電子書閱讀器、小螢幕與 6x9 印刷 | [下載](../editions/how-you-got-rich-pocket-1.2x.pdf) |
+| 圖書網站 | 了解主旨、結構、版本與更新 | [造訪](https://lachlanchen.github.io/HowDidYouGetRich/) |
+| 原生網頁版 | 完整可搜尋正文、公式、圖片與章節導覽 | [閱讀](https://lachlanchen.github.io/HowDidYouGetRich/chapters/note-on-the-conversations.html) |
+| 全書地圖 | 搜尋正文或瀏覽五部論證結構 | [探索](https://lachlanchen.github.io/HowDidYouGetRich/book.html) |
+| PDF 版本 | 可選的瀏覽、列印與下載格式 | [開啟](https://lachlanchen.github.io/HowDidYouGetRich/reader.html) |
+| 全尺寸 PDF · 163 頁 | 列印、桌面與大螢幕平板 | [下載](../editions/how-did-you-get-rich.pdf) |
+| 口袋版 1.2x PDF · 349 頁 | 電子書閱讀器、小螢幕與 6x9 印刷 | [下載](../editions/how-did-you-get-rich-pocket-1.2x.pdf) |
 
-V2 將永久保留[全尺寸版](../editions/v2/how-you-got-rich-v2.pdf)與
-[口袋版 1.2x](../editions/v2/how-you-got-rich-v2-pocket-1.2x.pdf)。不帶版本號
+V2 將永久保留[全尺寸版](../editions/v2/how-did-you-get-rich-v2.pdf)與
+[口袋版 1.2x](../editions/v2/how-did-you-get-rich-v2-pocket-1.2x.pdf)。不帶版本號
 的連結，只有在新版本通過來源、編輯與版面審查後才會更新。
 
 ## 全書論證
@@ -91,11 +91,11 @@ Hard Knocks** 訪談，以及每位受訪者分享的經歷。收錄他們的故
 GitHub 會讀取 [`CITATION.cff`](../CITATION.cff) 並提供引用匯出。
 
 ```bibtex
-@book{lazyingart2026howyougotrich,
+@book{lazyingart2026howdidyougetrich,
   author    = {{LazyingArt LLC}},
-  title     = {How You Got Rich: From Abundance to Fulfillment and Contentment},
+  title     = {How Did You Get Rich? From Abundance to Fulfillment and Contentment},
   year      = {2026},
   publisher = {LazyingArt and LazyLearn},
-  url       = {https://github.com/lachlanchen/HowYouGotRich}
+  url       = {https://github.com/lachlanchen/HowDidYouGetRich}
 }
 ```

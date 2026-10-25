@@ -95,7 +95,7 @@ def build_prompt(entry: dict[str, Any], records: list[dict[str, Any]], repair: l
             + "\n"
         )
     payload = {
-        "book": "How You Got Rich",
+        "book": "How Did You Get Rich?",
         "entry_id": entry["id"],
         "entry_kind": entry["kind"],
         "entry_title": entry["metadata"]["title"]["en"],

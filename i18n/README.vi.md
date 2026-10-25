@@ -2,18 +2,18 @@
 
 [![Biểu ngữ LazyingArt](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# How You Got Rich
+# How Did You Get Rich?
 
 ### Từ sung túc đến viên mãn và biết đủ
 
-[![Đọc trực tuyến](https://img.shields.io/badge/Đọc-Trực_tuyến-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowYouGotRich/)
-[![PDF đầy đủ](https://img.shields.io/badge/PDF-Khổ_đầy_đủ-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-you-got-rich.pdf)
-[![PDF bỏ túi](https://img.shields.io/badge/PDF-Bỏ_túi_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-you-got-rich-pocket-1.2x.pdf)
+[![Đọc trực tuyến](https://img.shields.io/badge/Đọc-Trực_tuyến-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowDidYouGetRich/)
+[![PDF đầy đủ](https://img.shields.io/badge/PDF-Khổ_đầy_đủ-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-did-you-get-rich.pdf)
+[![PDF bỏ túi](https://img.shields.io/badge/PDF-Bỏ_túi_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-did-you-get-rich-pocket-1.2x.pdf)
 [![GitHub Sponsors](https://img.shields.io/badge/Ủng_hộ-lachlanchen-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/lachlanchen)
 
-<p align="center"><a href="../editions/how-you-got-rich.pdf"><img src="../assets/cover-page-1.png" alt="Bìa How You Got Rich" width="520"></a></p>
+<p align="center"><a href="../editions/how-did-you-get-rich.pdf"><img src="../assets/cover-page-1.png" alt="Bìa How Did You Get Rich?" width="520"></a></p>
 
-*How You Got Rich* thẳng thắn tìm hiểu cách con người tạo ra, giữ gìn và sử
+*How Did You Get Rich?* thẳng thắn tìm hiểu cách con người tạo ra, giữ gìn và sử
 dụng của cải, cũng như cách biến của cải thành tự do thay vì một cuộc đua địa
 vị không có điểm dừng. Các cuộc phỏng vấn School of Hard Knocks là trục con
 người và bằng chứng của cuốn sách. Những câu chuyện thành công được đối chiếu
@@ -33,15 +33,15 @@ thể quyết định ta nên dùng không gian ấy như thế nào.
 
 | Định dạng | Phù hợp với | Mở |
 | --- | --- | --- |
-| Trang sách | Tiền đề, cấu trúc, các ấn bản và cập nhật | [Truy cập](https://lachlanchen.github.io/HowYouGotRich/) |
-| Sách web gốc | Toàn văn có thể tìm kiếm, công thức, hình và điều hướng chương | [Đọc](https://lachlanchen.github.io/HowYouGotRich/chapters/note-on-the-conversations.html) |
-| Bản đồ sách | Tìm toàn văn hoặc khám phá lập luận năm phần | [Khám phá](https://lachlanchen.github.io/HowYouGotRich/book.html) |
-| Ấn bản PDF | Định dạng tùy chọn để xem, in và tải xuống | [Mở](https://lachlanchen.github.io/HowYouGotRich/reader.html) |
-| PDF đầy đủ · 163 trang | In ấn, máy tính và máy tính bảng lớn | [Tải xuống](../editions/how-you-got-rich.pdf) |
-| PDF bỏ túi 1.2x · 349 trang | Máy đọc sách, màn hình nhỏ và in 6x9 | [Tải xuống](../editions/how-you-got-rich-pocket-1.2x.pdf) |
+| Trang sách | Tiền đề, cấu trúc, các ấn bản và cập nhật | [Truy cập](https://lachlanchen.github.io/HowDidYouGetRich/) |
+| Sách web gốc | Toàn văn có thể tìm kiếm, công thức, hình và điều hướng chương | [Đọc](https://lachlanchen.github.io/HowDidYouGetRich/chapters/note-on-the-conversations.html) |
+| Bản đồ sách | Tìm toàn văn hoặc khám phá lập luận năm phần | [Khám phá](https://lachlanchen.github.io/HowDidYouGetRich/book.html) |
+| Ấn bản PDF | Định dạng tùy chọn để xem, in và tải xuống | [Mở](https://lachlanchen.github.io/HowDidYouGetRich/reader.html) |
+| PDF đầy đủ · 163 trang | In ấn, máy tính và máy tính bảng lớn | [Tải xuống](../editions/how-did-you-get-rich.pdf) |
+| PDF bỏ túi 1.2x · 349 trang | Máy đọc sách, màn hình nhỏ và in 6x9 | [Tải xuống](../editions/how-did-you-get-rich-pocket-1.2x.pdf) |
 
-V2 luôn được lưu tại bản [đầy đủ](../editions/v2/how-you-got-rich-v2.pdf) và
-[bỏ túi 1.2x](../editions/v2/how-you-got-rich-v2-pocket-1.2x.pdf). Liên kết không
+V2 luôn được lưu tại bản [đầy đủ](../editions/v2/how-did-you-get-rich-v2.pdf) và
+[bỏ túi 1.2x](../editions/v2/how-did-you-get-rich-v2-pocket-1.2x.pdf). Liên kết không
 ghi phiên bản chỉ chuyển sang ấn bản mới sau khi qua kiểm tra nguồn, biên tập và
 trình bày.
 
@@ -95,11 +95,11 @@ biên soạn.
 GitHub dùng [`CITATION.cff`](../CITATION.cff) để xuất thông tin trích dẫn.
 
 ```bibtex
-@book{lazyingart2026howyougotrich,
+@book{lazyingart2026howdidyougetrich,
   author    = {{LazyingArt LLC}},
-  title     = {How You Got Rich: From Abundance to Fulfillment and Contentment},
+  title     = {How Did You Get Rich? From Abundance to Fulfillment and Contentment},
   year      = {2026},
   publisher = {LazyingArt and LazyLearn},
-  url       = {https://github.com/lachlanchen/HowYouGotRich}
+  url       = {https://github.com/lachlanchen/HowDidYouGetRich}
 }
 ```

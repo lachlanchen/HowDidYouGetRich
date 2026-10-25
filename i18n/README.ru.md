@@ -2,18 +2,18 @@
 
 [![Баннер LazyingArt](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# How You Got Rich
+# How Did You Get Rich?
 
 ### От достатка к самореализации и умению знать меру
 
-[![Читать онлайн](https://img.shields.io/badge/Читать-Онлайн-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowYouGotRich/)
-[![Полный PDF](https://img.shields.io/badge/PDF-Полный_формат-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-you-got-rich.pdf)
-[![Карманный PDF](https://img.shields.io/badge/PDF-Карманный_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-you-got-rich-pocket-1.2x.pdf)
+[![Читать онлайн](https://img.shields.io/badge/Читать-Онлайн-B94A2F?style=for-the-badge&logo=readme&logoColor=white)](https://lachlanchen.github.io/HowDidYouGetRich/)
+[![Полный PDF](https://img.shields.io/badge/PDF-Полный_формат-18332F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](../editions/how-did-you-get-rich.pdf)
+[![Карманный PDF](https://img.shields.io/badge/PDF-Карманный_1.2x-CB8A3D?style=for-the-badge&logo=bookstack&logoColor=white)](../editions/how-did-you-get-rich-pocket-1.2x.pdf)
 [![GitHub Sponsors](https://img.shields.io/badge/Поддержать-lachlanchen-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/lachlanchen)
 
-<p align="center"><a href="../editions/how-you-got-rich.pdf"><img src="../assets/cover-page-1.png" alt="Обложка How You Got Rich" width="520"></a></p>
+<p align="center"><a href="../editions/how-did-you-get-rich.pdf"><img src="../assets/cover-page-1.png" alt="Обложка How Did You Get Rich?" width="520"></a></p>
 
-*How You Got Rich* честно исследует, как люди создают, сохраняют и используют
+*How Did You Get Rich?* честно исследует, как люди создают, сохраняют и используют
 богатство и как оно может стать свободой, а не бесконечной погоней за статусом.
 Интервью School of Hard Knocks служат человеческой и доказательной основой.
 Истории успеха проверяются неудачами, удачей, стартовыми условиями, стимулами,
@@ -32,15 +32,15 @@
 
 | Формат | Для чего | Открыть |
 | --- | --- | --- |
-| Сайт книги | Замысел, структура, издания и новости | [Посетить](https://lachlanchen.github.io/HowYouGotRich/) |
-| Нативная веб-книга | Полный поиск по тексту, формулы, иллюстрации и навигация | [Читать](https://lachlanchen.github.io/HowYouGotRich/chapters/note-on-the-conversations.html) |
-| Карта книги | Поиск по тексту или обзор аргумента в пяти частях | [Открыть](https://lachlanchen.github.io/HowYouGotRich/book.html) |
-| PDF-издания | Дополнительные форматы для экрана, печати и загрузки | [Открыть](https://lachlanchen.github.io/HowYouGotRich/reader.html) |
-| Полный PDF · 163 страницы | Печать, компьютер и большой планшет | [Скачать](../editions/how-you-got-rich.pdf) |
-| Карманный PDF 1.2x · 349 страниц | Ридер, небольшой экран и печать 6x9 | [Скачать](../editions/how-you-got-rich-pocket-1.2x.pdf) |
+| Сайт книги | Замысел, структура, издания и новости | [Посетить](https://lachlanchen.github.io/HowDidYouGetRich/) |
+| Нативная веб-книга | Полный поиск по тексту, формулы, иллюстрации и навигация | [Читать](https://lachlanchen.github.io/HowDidYouGetRich/chapters/note-on-the-conversations.html) |
+| Карта книги | Поиск по тексту или обзор аргумента в пяти частях | [Открыть](https://lachlanchen.github.io/HowDidYouGetRich/book.html) |
+| PDF-издания | Дополнительные форматы для экрана, печати и загрузки | [Открыть](https://lachlanchen.github.io/HowDidYouGetRich/reader.html) |
+| Полный PDF · 163 страницы | Печать, компьютер и большой планшет | [Скачать](../editions/how-did-you-get-rich.pdf) |
+| Карманный PDF 1.2x · 349 страниц | Ридер, небольшой экран и печать 6x9 | [Скачать](../editions/how-did-you-get-rich-pocket-1.2x.pdf) |
 
-V2 навсегда сохранена в [полном формате](../editions/v2/how-you-got-rich-v2.pdf)
-и [карманном 1.2x](../editions/v2/how-you-got-rich-v2-pocket-1.2x.pdf). Ссылки
+V2 навсегда сохранена в [полном формате](../editions/v2/how-did-you-get-rich-v2.pdf)
+и [карманном 1.2x](../editions/v2/how-did-you-get-rich-v2-pocket-1.2x.pdf). Ссылки
 без номера версии меняются только после проверки источников, текста и верстки.
 
 ## Логика книги
@@ -92,11 +92,11 @@ make serve
 GitHub использует [`CITATION.cff`](../CITATION.cff) для экспорта цитат.
 
 ```bibtex
-@book{lazyingart2026howyougotrich,
+@book{lazyingart2026howdidyougetrich,
   author    = {{LazyingArt LLC}},
-  title     = {How You Got Rich: From Abundance to Fulfillment and Contentment},
+  title     = {How Did You Get Rich? From Abundance to Fulfillment and Contentment},
   year      = {2026},
   publisher = {LazyingArt and LazyLearn},
-  url       = {https://github.com/lachlanchen/HowYouGotRich}
+  url       = {https://github.com/lachlanchen/HowDidYouGetRich}
 }
 ```

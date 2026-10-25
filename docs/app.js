@@ -1,7 +1,7 @@
 "use strict";
 
 const BOOK_DATA = "data/book.json";
-const READING_STATE_KEY = "how-you-got-rich:web-reading-state";
+const READING_STATE_KEY = "how-did-you-get-rich:web-reading-state";
 
 function setupMenu() {
   const button = document.querySelector(".menu-button");
@@ -111,7 +111,7 @@ function setupResumeLink() {
   try {
     const state = JSON.parse(window.localStorage.getItem(READING_STATE_KEY) || "null");
     if (!state?.path || !state?.title) return;
-    const path = state.path.split("/HowYouGotRich/").pop() || state.path.replace(/^\//, "");
+    const path = state.path.split("/HowDidYouGetRich/").pop() || state.path.replace(/^\//, "");
     link.href = path;
     link.querySelector("strong").textContent = `Continue: ${state.title}`;
     link.hidden = false;

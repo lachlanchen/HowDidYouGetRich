@@ -4,9 +4,9 @@
   "source_commit": "4a37a0c8f07c49567735610b58be441ebfaf3f95",
   "source_commit_time": "2026-08-26T08:20:14+08:00",
   "title": {
-    "en": "How You Got Rich",
-    "ja": "あなたはいかにして富を築いたか",
-    "zh": "你是如何致富的"
+    "en": "How Did You Get Rich?",
+    "ja": "あなたはどうやって富を築いたのか？",
+    "zh": "你是如何致富的？"
   },
   "subtitle": {
     "en": "From Abundance to Fulfillment and Contentment",
@@ -83,7 +83,7 @@
       "number": null,
       "part": null,
       "path": "entries/introduction.json",
-      "source_sha256": "2973ac08fd516459f6c2bdb9be5e92a01d67cce93de827077851c79b1e6ec788",
+      "source_sha256": "47ebaf9bfc286799aaae6d40e6a5a7892428c95041aaeb4e30ea398f364c3044",
       "block_count": 21
     },
     {
